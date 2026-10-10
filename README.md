@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 - 💻 Interested in Software Engineering, AI/ML, and Data
 
-- 🔭 I’m currently working on [FIFA World Cup 2026 Analysis](https://github.com/marion-manalo/fifa-world-cup-2026-analysis)
-
 - 💼 Check out my visual portfolio! - [Portfolio](https://marion-manalo.github.io/cv/)
 
-- 📫 How to reach me: **marionmanalo682@gmail.com**
+- 📫 How to reach me: **<marionmanalo682@gmail.com>**
 
 - 📍 Based in **Georgia** 🍑
 
 - ⚡ Fun fact: **I love video games, music, space, and soccer!**
+
+**Due to the University of Georgia's Code of Conduct, I am not allowed to display some of my previous school projects. If you are an employer and would like to view these projects, please do not hesitate to reach out to me on LinkedIn or through my email. Thanks!**
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/marion-manalo/" target="blank">
